@@ -1,0 +1,500 @@
+1|!!! JOHL! \C[3]GOOD!?
+2|!!!\.\..\ Uh\..\..\.. okay.\.\. Maybe some other time then?
+3|"I guess a little." Gimme a break.
+4|'Eyyyy, open up, buddy. Got some\.\. \C[5]guns\C[0]\.\. for ya! You buyin'?
+5|'Eyyyyy.
+6|'ll try. I'll do it.
+7|(([!i[112]]))Show the chew toy.
+8|(([!i[247]]))Mazes and Wizards
+9|(([!i[373]]))I have your laundry.
+10|(([!i[37]]))I don't have cola, is lemon drink ok?
+11|(([!i[38]]))I have this orange drink...
+12|(([!i[39]]))Is a juice box ok?
+13|(([!i[7]]))I have bandages.
+14|(([!s[27]]))Hey! Boundaries, remember?
+15|(([!s[318]]))Restocking a vending machine.
+16|(([!s[351]]))Talk to the rat.
+17|(([!s[351]]))What did you do?!
+18|(([!s[362]]))Yes, she is safe back home!
+19|(([!s[520]]))The dragon isn't really dead.
+20|(([!s[537]]))Can you paint me an item?
+21|(([!s[672]]))Can you feed Tickle?
+22|(([!s[679];s[680]]))About that gift...
+23|(([!s[970]]))(Attack!)
+24|(([!s[994]]))Give me six random digits.
+25|(([[1=1]]))(attack!)
+26|(([g<100]))Fine. (Pay $100)
+27|(([g<10]))Sorry, I can only afford $10.
+28|(([g<20]))Sure, here is $20.
+29|(([g<40]))I'll give you $40.
+30|(([i[112]]))How do I show her I'm a friend?
+31|(([s[1030]]))How do you know me? Brother?
+32|(([s[1031]]))Are you a friend?
+33|(([s[1032]]))Where are we?
+34|(([s[1033]]))What's the bad news?
+35|(([s[1034]]))Are you the Visitor?
+36|(([s[1091]]))Maybe it's a friend.
+37|(([s[1091]]))Maybe we can kill it.
+38|(([s[13]]))Please stop spying on me.
+39|(([s[198]]))This giant mushroom thing?
+40|(([s[351]]))(Approach the rat.)
+41|(([s[526]]))What happened here?
+42|(([s[528]]))Maybe I can get you something...?
+43|(([s[766]]))I need fairy magic!
+44|(([v[190]!=1;!p[4]]))Can you fix Fuzzy?
+45|(([v[190]!=3;!p[4]]))Do you have Joel's Teddy Bear?
+46|(([v[320]!=5]))Want to come along?
+47|(([v[555]<40]))\V[448](\V[555]HP)
+48|(([v[556]<40]))\V[450](\V[556]HP)
+49|(([v[557]<40]))\V[451](\V[557]HP)
+50|(([v[558]<40]))\V[452](\V[558]HP)
+51|(([v[560]=0]))I'd like to trade items!
+52|(([v[583]<11]))About your transformation...
+53|(([v[583]>11]))What's happening to you?
+54|(([v[590]=0]))David is worried about you.
+55|(([v[590]=0]))David is worried.
+56|(([v[591]=0]))I would like the offering back.
+57|(([v[591]>0]))I have an offering.
+58|(([v[592]=0]))I'd like the offering back.
+59|(([v[592]>0]))I have something for you.
+60|(([v[593]=0]))I would like the offering back.
+61|(([v[593]>0]))I have an offering.
+62|(([v[594]=0]))I would like the offering back.
+63|(([v[594]>0]))I have an offering.
+64|(([v[595]!=7]))How can I get into Apartment 12?
+65|(([v[595]<2;s[475]]))About joining you.
+66|(([v[595]<2]))About your colleagues...
+67|(([v[595]<3]))What happened to Edwin?
+68|(([v[595]<3]))What's wrong with Jasper?
+69|(([v[595]<4]))I heard you were the one to find it.
+70|(([v[595]<5]))Tell me about your founder.
+71|(([v[595]<6]))Please. Tell me about Sybil.
+72|(([v[595]<6]))Sybil? She's my neighbor!
+73|(([v[635]=3]))\V[636]
+74|(([v[735]>0]))You seem friendly.
+75|(([v[7]<3]))\v[451] will fight.
+76|(([v[7]<4]))\v[452] will fight.
+77|(([v[7]<8]))Yes.
+78|(([v[872]=5]))Can I have the telescope back?
+79|(([v[874]!=2]))What happened to you?
+80|(([v[874]>=2]))What are you?
+81|(([v[898]<1]))Do you think we could kill it?
+82|(([v[898]<2]))...I think I could kill it.
+83|(([v[8]<6]))Hand over 6x Cleanerex.
+84|(([v[8]<v[7]]))Buy the key.
+85|(([v[945]<2]))Let's trade.
+86|(ATTACK!)
+87|(Attack her!)
+88|(Attack her)
+89|(Attack her.)
+90|(Attack him!)
+91|(Attack him)
+92|(Attack!)
+93|(Attack)
+94|(Attack.)
+95|(Back.)
+96|(DON'T MOVE.)
+97|(Dan, let's get outta here.)
+98|(Don't move.)
+99|(Don't shake hands)
+100|(Give him some food.)
+101|(Give it a gift.)
+102|(Give nothing.)
+103|(Hold the pinky...)
+104|(Hold your breath.)
+105|(Hug her and we can go!)
+106|(Hug her.)
+107|(It's my employer, \C[3]Mr. Henderson!\C[0] Don't forget it!)
+108|(Just do it, Dan!)
+109|(Leave eyehole.)
+110|(Leave the child alone.)
+111|(Leave the creature alone.)
+112|(Leave)
+113|(Leave.)
+114|(Leave...)
+115|(No pinky holding!)
+116|(Nod.)
+117|(Psst - it's \C[3]Mr. Henderson!\C[0] I stole his dentures
+118|(Psst! I don't trust him! Guy sounds like a fed!)
+119|(Pull him free!)
+120|(RUN!)
+121|(Run away!)
+122|(Run away.)
+123|(SAY NOTHING.)
+124|(Say nothing.)
+125|(Shake hands)
+126|(Shake your head.)
+127|(Show an item.)
+128|(Shrug.)
+129|(Shut the door)
+130|(Shut the door.)
+131|(Talk.)
+132|(Thumbs down.)
+133|(Thumbs up.)
+134|(Villain voice) You fell into my trap!
+135|(You currently have \V[8] Cleanerex)
+136|(You don't have to do anything you don't want.)
+137|(You have \V[6] keys.)
+138|(You have too many people in your party,
+139|(You have too many people in your party. Papineau will wait
+140|(You have too many people in your party. \c[14]Joel will be waiting
+141|(approach her)
+142|(attack)
+143|(back)
+144|(end)
+145|(leave)
+146|(next)
+147|*SNORT*\.\.\.\.\^
+148|..!!
+149|...
+150|... ...
+151|... ... ...
+152|... ... ... \c[5]uhm...
+153|... ... ... nobody home?
+154|... ... ... yes
+155|... ... I admit defeat. You have bested me.
+156|... ... \N[1].
+157|... ... damn.
+158|... ... oh. Um. Just one more...? He is pretty big...
+159|... ...\c[5]Mom?\C[0] Is that you?
+160|... ...you're gonna \C[5]wimp out\C[0] at the last minute like
+161|... I heard this will blow over in \C[4]15 days\C[0].
+162|... Sybil? Is that you?
+163|... it looks like the photo isn't very good. It looks all \C[14]smudgy.\C[0]
+164|... uh-huh.
+165|... wait. No! \C[10]It cuts off!\C[0] The most important
+166|...!!?\.\.\. Y-\.you could?!\. B-but hhh-hhh-he's so badly
+167|......
+168|......sure?
+169|....F...
+170|....now you \C[5]owe me $20.\.\.\.\C[0] For the spell.
+171|...A \C[5]lot\C[0] worse.
+172|...Hello?
+173|...Hi again. I hope you have good news.
+174|...Hi, little guy.
+175|...I admit defeat. You have bested me.
+176|...No matter.\.\. I can work with this.
+177|...\C[5]!!
+178|...anyway, you'll do it? You'll kill 'em? I'll\C[14] pay you.
+179|...are you sure it's safe?
+180|...as long as you do exactly what I say, of course.
+181|...back to other subject matter.
+182|...brother?
+183|...but it \C[5]won't hurt me though!\C[0] It's painless on my end. It
+184|...but then realizes what she is about to do and sheepishly
+185|...can I see it again?
+186|...damn.
+187|...except for the faces. I can see through their eyes. I feel
+188|...forget it.
+189|...helloooo?
+190|...hey... you... Is someone there?
+191|...hisss...
+192|...it's bad, right? It's really bad?!
+193|...no. Absolutely not.
+194|...okay, come back.
+195|...okay.
+196|...okay. I'll go and talk to it. I mean, whatever is in
+197|...okay?
+198|...really?
+199|...so I know it's a little strange, but I can't really help it,
+200|...so I painted myself. I painted the changes I underwent.
+201|...so desu ne.
+202|...sure.
+203|...sure?
+204|...uh, alright. Go ahead.
+205|...uh, bye.
+206|...we'd spend nights looking through it until the sun
+207|...what were we talking about? I shouldn't be talking this
+208|...where -\. hhh -\. can I go?
+209|...yeah, sure.
+210|...you wanna hang out?
+211|..oh, and watch out for my, uh,\C[5] other half.\.\. \C[0]In \C[14]Room 13.\C[0] It is much
+212|.\..\..\. .\..\..\.?\.\. What?
+213|1,\. 8,\. 7,\. 5,\..\..\.. 5 again\., and 2!
+214|10
+215|2x \C[3]{Bandages}\C[00], \C[3]{Tonic}\C[0].
+216|3
+217|3/10 at \C[5]BEST.
+218|3x \C[3]{Bandages}\C[00], \C[3]{Tonic}\C[0] and \C[3]{First Aid Kit}\C[0].
+219|4
+220|4x \C[3]{Bandages}\C[00], \C[3]{Tonic}\C[0], \C[3]{First Aid Kit}\C[0] and \C[3]{Medication}\C[0].
+221|6
+222|6x \C[3]{Cleanerex}\C[0].
+223|8
+224|<<[!i[291]]>>I do.
+225|<<[!i[359]]>>I got cassettes.
+226|<<[!i[359]]>>Nail Bomb (1 tape)
+227|<<[!i[36]]>>I have a can.
+228|<<[!i[375]]>>I have rat tails to trade.
+229|<<[1=1]>>Craft!
+230|<<[1=1]>>Don't worry about it
+231|<<[1=1]>>Don't worry about me.
+232|<<[1=1]>>I don't want to be scared.
+233|<<[1=1]>>I don't want to say these things.
+234|<<[1=1]>>I think I've made a lot of progress.
+235|<<[1=1]>>I'm not afraid.
+236|<<[1=1]>>I'm so sorry.
+237|<<[1=1]>>It helped me so much!
+238|<<[1=1]>>It's not you, it's me.
+239|<<[1=1]>>More than you know.
+240|<<[1=1]>>No.
+241|<<[1=1]>>Please don't be mad.
+242|<<[1=1]>>Please don't be sad.
+243|<<[1=1]>>Thank you so much for your help!
+244|<<[1=1]>>You are doing great.
+245|<<[1=1]>>You're fine.
+246|<<[g<12]>>$12 tip.
+247|<<[g<1]>>$1 tip
+248|<<[g<2]>>$2 tip
+249|<<[g<2]>>$2 tip.
+250|<<[g<3]>>$3 tip.
+251|<<[g<4]>>$4 tip.
+252|<<[g<6]>>$6 tip.
+253|<<[g<80]>>Yes.
+254|<<[g<8]>>$8 tip.
+255|<<[g<v[288]]>>Buy a key.
+256|<<[g<v[293]]>>Sure.
+257|<<[i[110]<5]>>I do! Let's play.
+258|<<[i[177]<2]>>(Give him all your junk.)
+259|<<[i[177]=0]>>(Give him some junk.)
+260|<<[i[359]<1]>>(([v[432]<2]))I want to trade tapes.
+261|<<[i[359]<2]>>Misshapen Limb (2 tapes)
+262|<<[i[359]<3]>>(([s[711]]))Elbow Pads (3 tapes)
+263|<<[i[359]<4]>>(([s[712]]))Crown of Fingers (4 tapes)
+264|<<[i[359]<6]>>(([s[713]]))Coat of Arms (6 tapes)
+265|<<[i[375]<1]>>Filth Bomb (1 tail)
+266|<<[i[375]<2]>>Rat Tail Whip (2 tails)
+267|<<[i[375]<3]>>(([s[708]]))Rat Tail Belt (3 tails)
+268|<<[i[375]<4]>>(([s[709]]))Giant Rat Skull (4 tails)
+269|<<[i[375]<6]>>(([s[710]]))Filthy Ring (6 tails)
+270|<<[i[382]<1]>>Worm Juice (1 egg)
+271|<<[i[382]<2]>>Worm-Baked Pie (2 eggs)
+272|<<[i[382]<3]>>Worm O' Nine Tails (3 eggs)
+273|<<[i[382]<5]>>(([s[961]]))Wormskin Robe (5 eggs)
+274|<<[i[382]<6]>>(([s[962]]))Worm Crown (6 eggs)
+275|<<[i[91]<2;i[151]<2]>>Make two charges.
+276|<<[i[91]<3;i[151]<3]>>Make three charges.
+277|<<[i[91]=0;i[151]=0]>>Make one charge.
+278|<<[s[971]]>>Hello, Pierre! I'm sorry for earlier.
+279|<<[s[972]]>>I'd love to be friends with you!
+280|<<[s[973]]>>Please don't hurt me.
+281|<<[s[974]]>>Are you a monster?!
+282|<<[v[560]<10]>>(([s[463]]))Crimson Ring (10 pts)
+283|<<[v[560]<2]>>Mosquito Knife (2 pts)
+284|<<[v[560]<4]>>(([s[461]]))Blood Helmet (4 pts)
+285|<<[v[560]<6]>>(([s[462]]))Vampiric Jacket (6 pts)
+286|<<[v[589]>g]>>Yes.
+287|????
+288|A LITTLE BIT.
+289|A \C[14]little trickster\C[0] that one.
+290|A \C[14]trading card game,\C[0] quite popular in high society.
+291|A \C[3]first aid kit?\C[0] Yes, perfect, that's what I needed.
+292|A \C[3]stimulant?\C[0] A bit overkill, but thank you!
+293|A \C[3]tonic?\C[0] Yes, perfect! Those do help with pain.
+294|A \C[5]big spider\C[0] attacked the bus. It \C[10]ate our teacher!
+295|A \C[5]fissure\c[0] is forming down the middle of your skull.
+296|A \C[5]grotesque eye\C[0] peeks out of his gaping chest wound!
+297|A bit crude, yeah. My word.
+298|A bright blue tentacle-like limb slinks out and coils around
+299|A bright blue tentacle-like limb slinks out takes it
+300|A bug got in through the window\..\..\.. bit me.
+301|A cacophony of rat voices screech at you.
+302|A cold wind was rising. The hunter rejoiced, knowing the
+303|A cursed blade. Folded three thousand times by a blind
+304|A dark shape with a pale face observes you.
+305|A diminutive figure with a cap stands near the door.
+306|A diminutive figure with a cap stands near the door. Something
+307|A disintegrator gun, will utterly annhilate
+308|A dreadful weapon... drains the life from anything
+309|A flower would be nice, but\..\..\.. all the flowers outside
+310|A good hiding spot like this is hard to find. And it's difficult
+311|A grotesque mass of ever-shifting flesh.\.
+312|A grotesquely deformed child is playing with toys. He seems
+313|A group of leather-clad punks is standing outside your
+314|A hammer of incredible mass! It can pulverize just
+315|A heavyset man in a trench coat stands at the door. Sensing
+316|A hefty man wearing a hood is standing in front of the door.
+317|A hero! A modern-day hero! Can you believe it?
+318|A hiss whistles through its sharp teeth as it
+319|A knot of necks and legs, it seems to be the hydra's central
+320|A lamprey-like tongue covered in toothed cilia emerges from
+321|A large, grotesque creature waddles to you.
+322|A little girl is outside. She keeps glancing around as if
+323|A lot of incongruous memories that make no sense to me.
+324|A low, rumbling \C[5]gurgle\C[0] comes from the eerie figure.
+325|A man draped in unseasonably thick robes stands outside.
+326|A man in modified football gear stands in front of the door.
+327|A man is standing in front of the door.
+328|A menace to society!
+329|A menacing man straight out of a gangster movie stands in front
+330|A natural phenomenon?
+331|A new friend? SURE! Let's hang out, buddy!
+332|A noxious dagger that rots away flesh. I'll need a
+333|A p-photographer!
+334|A pallid man in priest's raiment stands outside. He's clutching
+335|A pallid woman in a strange, frumpy robe looks around furtively
+336|A person in doctor's attire stands in front of the door.
+337|A piece of repugnant flesh sloughs from Tumorhead's face!
+338|A pudgy man in a cartoonish top hat and monocle is at the door.
+339|A real shame.
+340|A reward? Cool! What is it?
+341|A robed figure stands at the door, hunching from the
+342|A small hand emerges from the interior of the robe,
+343|A small part of Aster manages to gain control for a moment.
+344|A snaky tendril of white paint wraps around your wrist. You
+345|A soldier comes out of the APC!
+346|A strange, tall woman sways in front of the door. She looks
+347|A strange, twitchy guy leans against the door. He looks around
+348|A teenager holding a square box stands in front of the door.
+349|A terrible sewer beast draws near!
+350|A terrible stench fills the air.
+351|A terrible thunderstorm was brewing. The hunter was pleased
+352|A thousand thanks. I owe you, big time. When they're all gone,
+353|A time machine would be nice.
+354|A towering shape hovers at the door. An ominous mask covers
+355|A towering shape looms at the door.
+356|A very haggard young man stumbles around the hall. He walks
+357|A very haggard young man. He has a nasty burn on his chest.
+358|A very haggard young man. He's clutching a bruise and seems
+359|A very haggard young man. He's clutching a nasty wound on his
+360|A very haggard young man. He's covered in nasty wounds and is
+361|A very haggard young man. He's quite pale and a bit wobbly
+362|A very haggard young man. He's shivering and coughs
+363|A weird feeling? Well, it IS strange.
+364|A woman is carrying a heavy backpack. You hear the sound
+365|A... a \C[11]terrible painting,\C[0] hidden away somewhere
+366|AAAAAAAAAAAAAAAAAAAAH!
+367|AAAAAAAAAAAAAAAH!!!!
+368|AAAAAAAARGH!
+369|AAAAAAAARGH! NO!\.\.
+370|AAAAAAAARGH!!!
+371|AARGH! Please don't!
+372|ACT\. IN\. THE\. LAST\. COMEDY\. SHOW\..
+373|ADVENTURER.
+374|AGH! Get \C[10]OFF\C[0] me!
+375|AGHGHRRRR! You little SHIT!
+376|AH!\.\.\.
+377|ALL\. THIS\..
+378|ALRIGHT! Okay. You can look!
+379|AND IF YOU WON'T STAAAAAAAY, I'LL JUST HAVE TO \C[10]PUUUUUNISH
+380|ANY\. FRIENDS?\.\.\.
+381|AN\. IMPEDIMENT.
+382|ARGH!! \C[10]HUNGRY!
+383|ARGH!!! GET AWAY FROM ME!
+384|ASCEND!
+385|AT THE MOMENT.
+386|AUDIENCE.
+387|Aaaaaaaaand, \C[5]Daaaaanieeeeeel?
+388|Aaaah! He's all gone! You pig! You ate him!! Nooooo!
+389|Aaagh... alright. Peace...
+390|Aaagh... alright. Some other time...
+391|Aaah, we can only dream.
+392|About Jasper.
+393|About all the \X[3] \X[4] \X[3] stuff?
+394|About breaking even.
+395|About digging up treasure...
+396|About my neighbor...
+397|About myself? There isn't much to say, really. Typical stuff.
+398|About photography...
+399|About that painting...
+400|About the cursed painting...
+401|About the locked room.
+402|About the locked room...
+403|About the others...
+404|About the portraits...
+405|About the thing outside.
+406|About you.
+407|About your brother.
+408|About your dad.
+409|About your mom.
+410|Absolutely not.
+411|Absolutely not. I say we take out the trash,
+412|Absolutely.
+413|Acacoph.
+414|After 30 minutes of talking (mostly listening to him talk),
+415|After all, you've got a walking vending machine
+416|Again, you kiss a boiling hot, glassy, bulbous surface. You
+417|Agelast.
+418|Agh! Damn it!
+419|Agh! I'm stuck! Hang on.
+420|Agh! It's all over my hair! Get me out of there...
+421|Agh! Why was that so painful!? It felt like I was being \C[5]stabbed!
+422|Ah well. I mean, you didn't run away. And you're still here!
+423|Ah yeah, times are tough, eh? Hang on, lemme see
+424|Ah! YES. They are\..\..\..\c[5] done.\C[0] Hee hee! Just in time for someone else
+425|Ah! You are back safe and sound, my friend!
+426|Ah! You do not need my help, then? Very well.
+427|Ah! \C[10]What are you doing?!
+428|Ah!\.\. You did!\.\. Great.\.\. Heh\. heh\. heh\..\..\..\..\.\. did you like it...?
+429|Ah, Aster! It's you! How are you?
+430|Ah, I misunderstood.
+431|Ah, \C[3]Michael.\C[0] It breaks my heart to see him like this. He looks
+432|Ah, are you interested in that painting I made? Here... maybe
+433|Ah, have you found more supplies?
+434|Ah, if you don't mind me asking, what \C[3]religion\C[0] do you practice?
+435|Ah, it's over.\. Just me now.
+436|Ah, my mind's all cleared up. You must have taken care
+437|Ah, nevertheless, perhaps I can provide \C[3]assistance\C[0] in some
+438|Ah, nice. Thank you very much!
+439|Ah, nothing this time? Too bad.
+440|Ah, really? Good! That's good.
+441|Ah, right, it's my friend of another faith. I'm glad to see
+442|Ah, right, it's my secular friend. I'm glad to see you're well.
+443|Ah, screw it. I'm done waiting. You look tired, Antoine\..\..\..
+444|Ah, see? As I promised. Your head is \C[3]free now.\C[0] Just go on
+445|Ah, so you've spoken to Aster? Yes, there are
+446|Ah, the ground floor, yes. I couldn't open that stairwell
+447|Ah, too bad.
+448|Ah, uh, hi again. W-would you like me to, uh, \C[14]take care of Tickle\C[0]
+449|Ah, you busted your metal detector? Were you swinging it
+450|Ah, you know, politics.\.\. I don't really pay attention.
+451|Ah, you startled me! It's you again! What can I
+452|Ah, you would like a vending machine key? Mmmh\..\..\..
+453|Ah, you've given it more thought I see.
+454|Ah-ha! Found you!
+455|Ah. Looks like the shipment of spare parts arrived.
+456|Ah...\.\. a \C[14]rookie.\C[0] We'll have to make do.
+457|Ah? What's that? I didn't say anything. Here's \C[3]$120.\C[0] Give
+458|Ah? What's that? I didn't say anything. Here's \C[3]$200.\C[0] Give
+459|Ah\..\..\.. if only you knew how\C[5] good\c[0] this feels\..\..\..
+460|Aha! Another lucid individual! Well, then!
+461|Aha! I have just the thing! \C[3]Behold!
+462|Aha! I knew you had it in you! Keep looking! I
+463|Aha! Maybe I can help? I found \C[3]these \C[0]on the way.
+464|Ahead of him, the most dangerous of beasts: \C[10]the many-headed
+465|Ahhh... there's nothing quite like it.
+466|Alas! Although I had a vision, it failed to
+467|Alas. There is no coherent thought to be
+468|Alien technology?
+469|All I can do is bury myself in a hole and \C[10]die.\C[0] Please leave
+470|All due respect and everything, buddy! But that
+471|All in all, you're not doing too badly.
+472|All of them are \C[5]missing.\C[0] They may be dead,
+473|All outta chips!
+474|All outta fish!
+475|All outta signs!
+476|All the vegetation outside is mutated and crazy. There isn't
+477|All you need to do is complete \C[11]one daily task\C[0] for me. I'll give
+478|Almost done!
+479|Almost there\..\..\.. \..\..\..
+480|Along with all the others, I take it. Good. I need to be
+481|Alright then! Deal.
+482|Alright! Here it goes. It will feel good to finally get to
+483|Alright! Let's go! Goodbye Henri!
+484|Alright!\. Right on!\. Finally.\. Somebody opened up.
+485|Alright, I gotta go now.
+486|Alright, I hope that's going to be useful!
+487|Alright, I'll give you some \C[3]pointers for cooking\C[0] as thanks.
+488|Alright, I'll give you some pointers for cooking
+489|Alright, Monty. You gotta stand. We got trouble!
+490|Alright, fine.
+491|Alright, here's what I got to trade.
+492|Alright, let's get to work. We have a lot of limbs to amputate.\.
+493|Alright, peace.
+494|Alright, so, you want to buy some games from me?
+495|Alright, so... promise me you won't \C[5]freak...
+496|Alright, then! I must be a natural.
+497|Alright, then. Ask me again if you change your mind.
+498|Alright, then. Just let me know if you change your mind.
+499|Alright.
+500|Alright... I'll keep searching.
